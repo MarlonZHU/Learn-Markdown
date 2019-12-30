@@ -64,15 +64,18 @@ Inline Code Block
 - \<p>This is a paragraph\</p>
 
 Images
+
 - \![Markdown logo]\(https://markdown-here.com/img/icon256.png)
 
 Tables
+
 | Name     | Email          |
 | -------- | -------------- |
 | John Doe | john@gmail.com |
 | Jane Doe | jane@gmail.com |
 
  Horizontal Rule
+ 
 - \-\-\-
 - \_\_\_
 ---
